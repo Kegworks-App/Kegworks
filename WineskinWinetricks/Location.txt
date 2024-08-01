@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/Kegworks-App/winetricks/kegworks/src/winetricks
