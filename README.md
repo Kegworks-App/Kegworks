@@ -70,12 +70,15 @@ __See the following examples:__
 
 <br>
 
-## License
-Keeping the same as the original material, LGPL 2.1 is the license of that project. You can find more details about that in the LICENSE file.
+## License for listed components
+- `Wineskin Winery.app`
+- `Wineskin.app`
+- `wineskinaluncher`
+These keep the same as the original material LGPL2.1
 
 <br>
 
-## Want to contribute
+## Want to contribute Wineskin
 You can find the current sources [here](https://github.com/The-Wineskin-Project/wineskin-source)
 
 ## Credits
