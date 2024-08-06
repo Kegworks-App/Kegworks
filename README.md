@@ -24,18 +24,18 @@ Supports DirectX 11 and below.
 - Vulkan backend is used for DirectX 10 & 11
 
 __VKD3D (default)__\
-- Limited DirectX 12 support.\
+Limited DirectX 12 support.\
 __Requires WineCX23.x or later Engines__
 
 __D3DMetal (toggle)__\
-Supports 64Bit DirectX 11 & 12 via Metal.\
+64Bit DirectX 11 & 12 via Metal.\
 __Requires an Apple Silicon mac running macOS Sonoma or later__
 
 __D9VK (winetricks)__\
-Supports DirectX 9 via Vulkan.
+DirectX 9 via Vulkan.
 
 __DXVK (winetricks)__\
-Supports DirectX 10 & 11 via Vulkan.
+DirectX 10 & 11 via Vulkan.
 
 <br>
 
