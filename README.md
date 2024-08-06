@@ -31,7 +31,7 @@ __Requires WineCX23.x or later Engines__
 __D3DMetal (toggle)__\
 Supports 64Bit DirectX 11 & 12 via Metal.\
 Since "Game porting toolkit" 1.0 beta 4 Apple now allows redistribution for none commercial uses.\
-You can view  Apple's documentation [here](https://github.com/Gcenx/WineskinServer/tree/master/D3DMetal).
+You can view  Apple's documentation [here](https://github.com/Gcenx/WineskinServer/tree/master/D3DMetal).\
 __Requires an Apple Silicon mac running macOS Sonoma__
 
 __D9VK__\
