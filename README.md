@@ -21,8 +21,7 @@ brew install --cask --no-quarantine gcenx/wine/wineskin
 __WineD3D (default)__\
 Supports DirectX 11 and below.
 - OpenGL backend is used for DirectX 9 and below
-- Vulkan backend is used for DirectX 10 & 11  
-_When Enabled D3DMetal when takes over 64Bit DirectX 11 & DirectX 12_
+- Vulkan backend is used for DirectX 10 & 11
 
 __VKD3D (default)__\
 Limited DirectX 12 support.\
@@ -60,11 +59,10 @@ __See the following examples:__
 
 <br>
 
-## License for listed components
+## LGPL2.1 License for listed components
 - `Wineskin Winery.app`
 - `Wineskin.app`
-- `wineskinaluncher`\
-These keep the same as the original material LGPL2.1
+- `wineskinaluncher`
 
 <br>
 
