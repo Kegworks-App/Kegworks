@@ -24,7 +24,7 @@ __VKD3D (default)__\
 Limited DirectX 12 support.
 
 __D3DMetal (toggle)__\
-64Bit DirectX 11 & 12 via Metal.\
+64Bit DirectX 11 & 12 via Metal.
 
 __D9VK (winetricks)__\
 DirectX 9 via Vulkan.
