@@ -1,6 +1,7 @@
 # Wineskin
-Wineskin is a user-friendly tool used to make ports of Microsoft Windows software to macOS.\
-Unlike the original [Wineskin Project](https://web.archive.org/web/20141218081028/http://wineskin.urgesoftware.com/tiki-index.php) by doh123 that worked on *OS X 10.6* to *macOS 10.12* (without tweaks), this project supports *macOS 10.15.4* to *macOS 14*
+Wineskin is a user-friendly tool used to make ports of Microsoft Windows software to macOS.
+
+Unlike the original [Wineskin Project](https://web.archive.org/web/20141218081028/http://wineskin.urgesoftware.com/tiki-index.php) by doh123 that worked on *OS X 10.6* to *macOS 10.12* (without tweaks), this project supports *macOS 10.15.4* and later.
 
 <br>
 
@@ -10,17 +11,7 @@ Unlike the original [Wineskin Project](https://web.archive.org/web/2014121808102
 
 <br>
 
-## How to install
-### [homebrew](https://brew.sh/)
-#### Uninstall the old version
-```
-brew update
-brew upgrade
-brew uninstall --force --zap wineskin
-brew uninstall --force --zap gstreamer-runtime
-```
-
-#### Install the new version
+## How to install using [homebrew](https://brew.sh/)
 ```
 brew install --cask --no-quarantine gcenx/wine/wineskin
 ```
@@ -84,5 +75,5 @@ You can find the current sources [here](https://github.com/The-Wineskin-Project/
 ## Credits
 - [VitorMM](https://github.com/vitor251093) for modernizing the [Wineskin Codebase](https://github.com/vitor251093/wineskin) & [ObjectiveC_Extension](https://github.com/vitor251093/ObjectiveC_Extension).
 - [PaulTheTall](https://www.paulthetall.com/) for constant test data and finding bugs.
-- doh123 for creating [Wineskin](http://wineskin.urgesoftware.com).
+- doh123 for creating [Wineskin](https://web.archive.org/web/20141218081028/http://wineskin.urgesoftware.com/tiki-index.php).
 - [thmrtz](https://github.com/thmrtnz) for the issue template, documentation and the wiki.
