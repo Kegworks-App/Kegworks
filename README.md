@@ -1,7 +1,5 @@
 # Wineskin
-Wineskin is a user-friendly tool used to make ports of Microsoft Windows software to macOS.
-
-Unlike the original [Wineskin Project](https://web.archive.org/web/20141218081028/http://wineskin.urgesoftware.com/tiki-index.php) by doh123 that worked on *OS X 10.6* to *macOS 10.12* (without tweaks), this project supports *macOS 10.15.4* and later.
+This project supports *macOS 10.15.4* and later.
 
 <br>
 
