@@ -21,12 +21,10 @@ __WineD3D (default)__\
 Supports DirectX 11 and below.
 
 __VKD3D (default)__\
-Limited DirectX 12 support.\
-__Requires WineCX23.x or later Engines__
+Limited DirectX 12 support.
 
 __D3DMetal (toggle)__\
 64Bit DirectX 11 & 12 via Metal.\
-__Requires an Apple Silicon mac running macOS Sonoma or later__
 
 __D9VK (winetricks)__\
 DirectX 9 via Vulkan.
