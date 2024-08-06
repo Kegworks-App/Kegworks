@@ -63,7 +63,7 @@ __See the following examples:__
 ## License for listed components
 - `Wineskin Winery.app`
 - `Wineskin.app`
-- `wineskinaluncher`
+- `wineskinaluncher`\
 These keep the same as the original material LGPL2.1
 
 <br>
