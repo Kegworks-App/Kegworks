@@ -24,10 +24,15 @@ Supports DirectX 11 and below.
 - Vulkan backend is used for DirectX 10 & 11  
 _When Enabled D3DMetal when takes over 64Bit DirectX 11 & DirectX 12_
 
-__D3DMetal__\
+__VKD3D (default)__\
+Limited DirectX 12 support.\
+__Requires WineCX23.x or later Engines__
+
+__D3DMetal (toggle)__\
 Supports 64Bit DirectX 11 & 12 via Metal.\
 Since "Game porting toolkit" 1.0 beta 4 Apple now allows redistribution for none commercial uses.\
 You can view  Apple's documentation [here](https://github.com/Gcenx/WineskinServer/tree/master/D3DMetal).
+__Requires an Apple Silicon mac running macOS Sonoma__
 
 __D9VK__\
 Supports DirectX 9 via Vulkan.
@@ -35,10 +40,6 @@ Supports DirectX 9 via Vulkan.
 __DXVK__\
 Supports DirectX 10 & 11 via Vulkan.\
 _D3DMetal is forced when Enabled_
-
-__VKD3D (default)__\
-Limited DirectX 12 support.\
-__Requires WineCX23.x or later Engines__
 
 <br>
 
