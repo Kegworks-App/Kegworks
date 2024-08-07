@@ -54,7 +54,7 @@ __See the following examples:__
 ## Components that fall under LGPL-2.1 license
 - `Wineskin Winery.app`
 - `Wineskin.app`
-- `wineskinaluncher`
+- `wineskinlauncher`
 
 <br>
 
