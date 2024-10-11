@@ -53,15 +53,6 @@ body:
         - "Catalina (macOS 10.15)"
     validations:
       required: true
-  - type: dropdown
-    id: Engine
-    attributes:
-      label: What Engine are you using?
-      options:
-        - "WS12WineCX23.7.1"
-        - "Other (not supported)"
-    validations:
-      required: true
   - type: checkboxes
     attributes:
       label: Issue Language
