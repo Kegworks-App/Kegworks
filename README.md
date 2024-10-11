@@ -47,7 +47,7 @@ This project supports *macOS 10.15.4* or later.
 
 ## Components that don't fall under LGPG-2.1 license
 _Kegworks Winery-2.0.3/Wineskin-3.0.6-1 or greater_
-- `wineskinlauncher` (Kegworks in wineskin compatability mode)
+- `wineskinlauncher` (Kegworks in wineskin compatability mode)\
 _Kegworks Winery & Wineskin.app are being used temporarily_
 
 <br>
