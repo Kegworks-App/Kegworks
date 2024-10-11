@@ -15,7 +15,6 @@ This project supports *macOS 10.15.4* or later.
 > ```
 > brew upgrade
 > brew uninstall --force --zap wineskin
-> brew uninstall --force --zap gstreamer-runtime
 > brew install --cask --no-quarantine gcenx/wine/kegworks
 > ```
 
