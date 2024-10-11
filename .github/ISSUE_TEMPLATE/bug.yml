@@ -1,10 +1,7 @@
 name: Bug Report
 description: File a bug report.
 title: "[Bug]: "
-labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
-assignees:
-  - octocat
+
 body:
   - type: markdown
     attributes:
@@ -31,10 +28,14 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version of our software are you running?
+      description: What version of macOS are you running?
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        - "Sequoia (macOS 15)"
+        - "Sonoma (macOS 14)"
+        - "Ventura (macOS 13"
+        - "Monterey (macOS 12)"
+        - "Big Sur (macOS 11)"
+        - "Catalina (macOS 10.15)"
       default: 0
     validations:
       required: true
