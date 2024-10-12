@@ -13,7 +13,7 @@ body:
   - type: dropdown
     id: version
     attributes:
-      label: Version
+      label: macOS Version
       description: What version of macOS are you running?
       options:
         - "Sequoia (macOS 15)"
@@ -26,14 +26,23 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: wrapper
+    attributes:
+      label: Wrapper version
+      options:
+        - "Wineskin-3.0.7"
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
     id: engine
     attributes:
       label: Engine
       description: What Engine where you using
       options:
         - "WS12WineCX23.7.1"
-        - "WS12WhiskyWine2.4.4 (unsupported)"
-        - "WS12WineGPTK1.1 (unsupported)"
+        - "WS12WhiskyWine2.4.4 (not supported)"
+        - "WS12WineGPTK1.1 (not supported)"
       default: 0
     validations:
       required: true
