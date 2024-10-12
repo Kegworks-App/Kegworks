@@ -33,6 +33,7 @@ body:
       options:
         - "WS12WineCX23.7.1"
         - "WS12WhiskyWine2.4.4 (unsupported)"
+        - "WS12WineGPTK1.1 (unsupported)"
       default: 0
     validations:
       required: true
