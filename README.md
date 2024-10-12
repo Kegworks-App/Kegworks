@@ -59,4 +59,4 @@ _Kegworks Winery & Wineskin.app are being used temporarily_
 - [PaulTheTall](https://www.paulthetall.com/) for constant test data and finding bugs.
 - doh123 for creating [Wineskin](https://web.archive.org/web/20141218081028/http://wineskin.urgesoftware.com/tiki-index.php).
 - [thmrtz](https://github.com/thmrtnz) for the issue template, documentation and the wiki.
-- [Gcenx](https://github.com/Gcenx) for maintaing the Wine Engines & upstream Winehq packages.
+- [Gcenx](https://github.com/Gcenx) for maintaining the Wine Engines & upstream Winehq packages.
