@@ -26,20 +26,21 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: browsers
+    id: engine
     attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
+      label: Engine
+      description: What Engine where you using
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+        - "WS12WineCX23.7.1"
+        - "WS12WhiskyWine2.4.4 (unsupported)"
+      default: 0
+    validations:
+      required: true
   - type: textarea
     id: logs
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      label: LastRunWineLog
+      description: Please copy/paste the contents of LastRunWine.log.
       render: shell
   - type: checkboxes
     id: terms
