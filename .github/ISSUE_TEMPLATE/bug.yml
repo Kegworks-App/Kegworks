@@ -28,7 +28,7 @@ body:
   - type: dropdown
     id: wrapper
     attributes:
-      label: Wrapper version
+      label: Wrapper Version
       options:
         - "Wineskin-3.0.7"
       default: 0
