@@ -49,8 +49,7 @@ This project supports *macOS 10.15.4* or later.
 
 ## Components that don't fall under LGPG-2.1 license
 _Kegworks Winery-2.0.3/Wineskin-3.0.6-1 or greater_
-- `wineskinlauncher` (Kegworks in wineskin compatability mode)\
-_Kegworks Winery & Wineskin.app are being used temporarily_
+- `wineskinlauncher` (Kegworks in wineskin compatability mode)
 
 <br>
 
@@ -58,5 +57,4 @@ _Kegworks Winery & Wineskin.app are being used temporarily_
 - [VitorMM](https://github.com/vitor251093) for modernizing the [Wineskin Codebase](https://github.com/vitor251093/wineskin) & [ObjectiveC_Extension](https://github.com/vitor251093/ObjectiveC_Extension) & writting Kegworks-App from the ground up.
 - [PaulTheTall](https://www.paulthetall.com/) for constant test data and finding bugs.
 - doh123 for creating [Wineskin](https://web.archive.org/web/20141218081028/http://wineskin.urgesoftware.com/tiki-index.php).
-- [thmrtz](https://github.com/thmrtnz) for the issue template, documentation and the wiki.
 - [Gcenx](https://github.com/Gcenx) for maintaining the Wine Engines & upstream Winehq packages.
