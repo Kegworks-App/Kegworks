@@ -37,6 +37,8 @@ body:
         - "WS12WineCX23.7.1"
         - "WS12WhiskyWine2.4.4 (not supported)"
         - "WS12WineGPTK1.1 (not supported)"
+        - "WS11WineCX21.2.0 (not supported)"
+        - "WS11WineCX32Bit21.2.0 (not supported)"
       default: 0
     validations:
       required: true
