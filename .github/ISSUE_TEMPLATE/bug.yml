@@ -22,8 +22,7 @@ body:
   - type: dropdown
     id: cpu
     attributes:
-      label: Processor
-      description: What processor does your mac have?
+      description: Apple Silicon or Intel?
       options:
         - "Apple Silicon"
         - "Intel"
