@@ -20,6 +20,17 @@ body:
     validations:
       required: true
   - type: dropdown
+    id: version
+    attributes:
+      label: Processor
+      description: What processor does your mac have?
+      options:
+        - "Apple Silicon"
+        - "Intel"
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
     id: wrapper
     attributes:
       label: Wrapper Version
