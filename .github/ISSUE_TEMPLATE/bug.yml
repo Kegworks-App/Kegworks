@@ -20,7 +20,7 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: version
+    id: cpu
     attributes:
       label: Processor
       description: What processor does your mac have?
