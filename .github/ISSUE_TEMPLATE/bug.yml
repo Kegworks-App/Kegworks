@@ -51,6 +51,8 @@ body:
         - "WS11WineCX32Bit21.2.0 (not supported)"
         - "WS11WineCX20.0.4 (not supported)"
         - "WS11WineCX32Bit20.0.4 (not supported)"
+        - "WS11WineCX19.0.2 (not supported)"
+        - "WS11WineCX32Bit19.0.2 (not supported)"
       default: 0
     validations:
       required: true
