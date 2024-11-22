@@ -17,6 +17,14 @@ This project supports *macOS 10.15.4* or later.
 > brew uninstall --force --zap wineskin
 > brew install --cask --no-quarantine gcenx/wine/kegworks
 > ```
+> <br>
+> 
+> How to install using [MacPorts](https://www.macports.org/)
+> _Once [pr26704](https://github.com/macports/macports-ports/pull/26704) is merged_
+> ```
+> port selfupdate
+> port install kegworks
+> ```
 
 <br>
 
