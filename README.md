@@ -19,7 +19,7 @@ This project supports *macOS 10.15.4* or later.
 > ```
 > <br>
 > 
-> How to install using [MacPorts](https://www.macports.org/)
+> How to install using [MacPorts](https://www.macports.org/) \
 > _Once [pr26704](https://github.com/macports/macports-ports/pull/26704) is merged_
 > ```
 > port selfupdate
