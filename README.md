@@ -2,6 +2,8 @@
 A wrapper project that's the successor to Wineskin\
 This project supports *macOS 10.15.4* or later.
 
+[![](https://dcbadge.limes.pink/api/server/vJTjDyzJM2?compact=true)](https://discord.gg/vJTjDyzJM2)
+
 <br>
 
 ## Want to help support this project?
