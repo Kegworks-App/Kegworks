@@ -31,9 +31,13 @@ This project supports *macOS 10.15.4* or later.
 > DirectX support
 > - WineD3D (default) Supports DirectX 11 and below.
 > - VKD3D (default) Limited DirectX 12 support.
-> - D3DMetal (toggle) 64Bit DirectX 11 & 12 via Metal.
 > - D9VK (winetricks) DirectX 9 via Vulkan.
 > - DXVK (winetricks) DirectX 10 & 11 via Vulkan.
+> - D3DMetal (toggle) 64Bit DirectX 11 & 12 via Metal.
+>
+> Apples D3DMetal commonly refered to as GPTK is closed source and has a restrictive license\
+> it can not be used for commerial ports, that's not the case for all over renders.\
+> You can review the license for [D3DMetal-v1.1](/D3DMetal/1.1/License.pdf) and [D3DMetal-v2.0](/D3DMetal/2.0/License.pdf)
 
 <br>
 
