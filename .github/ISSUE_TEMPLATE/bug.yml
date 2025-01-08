@@ -110,8 +110,7 @@ body:
     id: logs
     attributes:
       label: LastRunWineLog
-      description: Please copy/paste the contents of LastRunWine.log.
-      render: shell
+      description: Please attach LastRunWine.log
   - type: checkboxes
     id: terms
     attributes:
