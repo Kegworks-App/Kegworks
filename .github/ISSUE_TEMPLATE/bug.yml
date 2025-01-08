@@ -109,7 +109,7 @@ body:
   - type: textarea
     id: logs
     attributes:
-      label: LastRunWineLog
+      label: LastRunWine.log
       description: Please attach LastRunWine.log
   - type: checkboxes
     id: terms
