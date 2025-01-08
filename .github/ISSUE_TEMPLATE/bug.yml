@@ -46,7 +46,7 @@ body:
       label: Engine
       description: What Engine where you using
       options:
-        - "WS12WinwCX23.7.1_1"
+        - "WS12WineCX23.7.1_1"
         - "WS12WineCX23.7.1 (not supported)"
         - "WS12WhiskyWine2.4.5 (not supported)"
         - "WS12WhiskyWine2.4.4 (not supported)"
