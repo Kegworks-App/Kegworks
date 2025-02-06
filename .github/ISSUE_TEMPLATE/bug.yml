@@ -76,10 +76,10 @@ body:
       label: Render Used
       description: What render backend was used
       options:
-        - "WineD3D"
-        - "D3DMetal (64-bit only)"
-        - "DXVK"
-        - "D9VK"
+        - "WineD3D (default)"
+        - "D3DMetal (Apple silicon & 64-bit only)"
+        - "DXVK (winetricks verb)"
+        - "D9VK (winetricks verb)"
       default: 0
     validations:
       required: true
